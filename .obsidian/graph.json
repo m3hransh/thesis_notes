@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "path:Notes ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#note  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084235
+      }
+    },
+    {
+      "query": "[\"type\":video]",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "[\"type\":article]",
+      "color": {
+        "a": 1,
+        "rgb": 16774932
+      }
+    },
+    {
+      "query": "tag:#project OR tag:#library  ",
+      "color": {
+        "a": 1,
+        "rgb": 6577366
+      }
+    },
+    {
+      "query": "tag:#component  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048448
+      }
+    },
+    {
+      "query": "[\"type\":paper]",
+      "color": {
+        "a": 1,
+        "rgb": 6949483
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.2902662370403362,
+  "close": false
+}
